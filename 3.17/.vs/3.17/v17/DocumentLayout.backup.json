@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\\u5317\u79D1\\\u7A0B\u5F0F\u8A2D\u8A08\\homework\\11.6\\3.17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B58CD49B-BC09-4B8D-ADB4-6754FA86227F}|3.17\\3.17.vcxproj|C:\\Users\\USER\\Desktop\\\u5317\u79D1\\\u7A0B\u5F0F\u8A2D\u8A08\\homework\\11.6\\3.17\\3.17\\3.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B58CD49B-BC09-4B8D-ADB4-6754FA86227F}|3.17\\3.17.vcxproj|solutionrelative:3.17\\3.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.17.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u5317\u79D1\\\u7A0B\u5F0F\u8A2D\u8A08\\homework\\11.6\\3.17\\3.17\\3.17.cpp",
+              "RelativeDocumentMoniker": "3.17\\3.17.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u5317\u79D1\\\u7A0B\u5F0F\u8A2D\u8A08\\homework\\11.6\\3.17\\3.17\\3.17.cpp",
+              "RelativeToolTip": "3.17\\3.17.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T09:46:28.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
